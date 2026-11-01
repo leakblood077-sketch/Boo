@@ -1,0 +1,1 @@
+const TELEGRAM_USERNAME = "bosssr_comtend3z12";
